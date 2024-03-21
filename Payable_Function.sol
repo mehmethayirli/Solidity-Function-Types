@@ -10,6 +10,5 @@ contract cuberium {
     function paraGonder() public payable {
         require(msg.value > 0, "Bir miktar Ether gondermelisiniz.");
         require(msg.sender != owner, "owner bu fonksiyonu cagiramaz.");
-        // Alınan Ether ile bir işlem yapabilirsiniz
     }
 }
