@@ -11,7 +11,7 @@ Katılımınızı bekliyorum! Bu repoya katkıda bulunmak için aşağıdaki ad�
 
 2- Klon: Yerel bilgisayarınıza çatalladığınız depoyu klonlayın.
 
-git clone https://github.com/mehmethayirli/solidity-fonksiyon-turleri.git
+git clone https://github.com/mehmethayirli/Solidity-Function-Types.git
 
 3- Branch Oluşturun: Yapmak istediğiniz değişiklikler için yeni bir branch oluşturun.
 
