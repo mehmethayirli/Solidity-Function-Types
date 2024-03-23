@@ -1,15 +1,17 @@
 
 *Solidity Fonksiyon Türleri*
+
 Bu repository, Solidity dilindeki farklı fonksiyon türlerini açıklamak ve örnekler sunmak için oluşturulmuştur. Solidity, akıllı sözleşmeler oluşturmak için popüler bir dil olduğundan, farklı fonksiyon türlerini anlamak ve kullanmak önemlidir.
 
 Nasıl Katkıda Bulunabilirim?
+
 Katılımınızı bekliyorum! Bu repoya katkıda bulunmak için aşağıdaki adımları izleyebilirsiniz:
 
 1- Fork: Bu depoyu kendi GitHub hesabınıza çatallayarak başlayın.
 
 2- Klon: Yerel bilgisayarınıza çatalladığınız depoyu klonlayın.
 
-git clone https://github.com/KULLANICI_ADINIZ/solidity-fonksiyon-turleri.git
+git clone https://github.com/mehmethayirli/solidity-fonksiyon-turleri.git
 
 3- Branch Oluşturun: Yapmak istediğiniz değişiklikler için yeni bir branch oluşturun.
 
